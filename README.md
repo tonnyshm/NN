@@ -1,1 +1,1 @@
-# NN
+# neural network
